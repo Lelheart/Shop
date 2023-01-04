@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="TV">Телевизоры</string>
+    <string name="Phones">Телефоны</string>
+    <string name="Consoles">Игровые приставки</string>
+    <string name="Computers">Компьютеры</string>
+    <string name="Back">Назад</string>
+</resources>
